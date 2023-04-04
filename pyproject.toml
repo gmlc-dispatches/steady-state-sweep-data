@@ -12,3 +12,5 @@ dynamic = ["version"]
 dependencies = [
     "dispatches-data-packages",
 ]
+
+[tool.setuptools_scm]
